@@ -1,0 +1,18 @@
+using System;
+
+class MainClass {
+  public static void Main (string[] args) {
+    string sıfre = "ELAZIG";
+    string ad;
+            Console.Write("SIFRENIZI GIRINIZ: ");
+            ad = Console.ReadLine();
+
+            if (sıfre==ad){
+              Console.WriteLine("GIRIS YAPILDI");
+            } 
+
+            else  
+            Console.WriteLine("TEKRAR DENEYINIZ");
+
+  }
+}
