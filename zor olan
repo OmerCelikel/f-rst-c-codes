@@ -1,0 +1,49 @@
+using System;
+
+class MainClass {
+  public static void Main (string[] args) {
+   /* 3 sayıyı karşılaştırıp büyük olanı bulduktan sonra küçükleri 
+   karşılaştırırız ve eğer o 2 si büyükse tebrikler değilse maalesef yazsın */
+        
+        int a = int.Parse(Console.ReadLine());
+        int b = int.Parse(Console.ReadLine());
+        int c = int.Parse(Console.ReadLine());
+ 
+        if (a > b && a > c)
+        {
+            Console.WriteLine("EN BUYUK SAYIMIZ: {0}", a);
+                if(b +c > a ){
+                  Console.WriteLine("TEBRIKLER");
+                }
+
+                else {
+                  Console.WriteLine("MAALESEF");
+                }
+
+        }
+        
+        else if (b > a && b > c)
+        {
+            Console.WriteLine("EN BUYUK SAYIMIZ: {0}", b);
+             if(a +c > b ){
+                  Console.WriteLine("TEBRIKLER");
+                }
+
+                else {
+                  Console.WriteLine("MAALESEF");
+                }
+        }
+       
+       else
+        {
+            Console.WriteLine("EN BUYUK SAYIMIZ: {0}", c);
+             if(b +a > c ){
+                  Console.WriteLine("TEBRIKLER");
+                }
+
+                else {
+                  Console.WriteLine("MAALESEF");
+                }
+        }
+    }
+}
