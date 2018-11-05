@@ -1,0 +1,23 @@
+using System;
+
+class MainClass {
+  public static void Main (string[] args) {
+      
+    int i , sayi, faktoriyel=1;
+  
+  Console.Write("FAKTARIYELINI ISTEDIGINIZ SAYI:");
+  
+  sayi = Convert.ToInt32(Console.ReadLine());
+  /*burada neden int sayı = int.Parse(Console.ReadLine()); kullanamıyorum */
+  
+  
+  for(i=1 ; i<=sayi ; i++)
+  {
+      faktoriyel=faktoriyel*i;
+  }
+
+Console.Write(faktoriyel);
+
+
+  }
+}
