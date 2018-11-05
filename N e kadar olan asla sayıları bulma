@@ -1,0 +1,31 @@
+using System;
+
+class MainClass{
+public static void Main(string[] args){
+
+int n;
+
+    Console.WriteLine("BIR SAYI GIRINIZ O SAYIYA KADAR OLAN ASALLLARI GOSTERECEGIM: ");
+
+    
+
+bool control = false; // kontrol değişkenimiz bool nedir!!!
+
+    n = int.Parse(Console.ReadLine());  
+
+    for(int i = 2; i < n; i++){
+    
+    for(int j = 2; j < i; j++){ // üstteki fordaki sayıya kadar bölüyoruz, 
+    eğer böleni var ise asal değil zaten i den kücük j ler ile basliyoruz
+
+
+      if ((i % j == 0)) { control = true; break; }
+          }
+        // eğer control false ise asal sayıdır yazdırıyoruz.
+
+      if (!control) Console.WriteLine(i + " ");
+          control = false;
+        } 
+
+    }
+}
