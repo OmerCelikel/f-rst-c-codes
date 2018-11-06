@@ -1,0 +1,37 @@
+/* BİLGİLERİ AL SONRA YAS AL YASI 18 DEN KÜÖÜKSE HER ÜÇ YILDA BİR OY KULLANMA OLACAĞII İÇİN YASI ÜÇER ÜÇER ARTTTIR VE OY KULLANABİLECEK İLLK YASI YAZ */
+
+using System;
+
+class MainClass {
+  public static void Main (string[] args) {
+    string isim;
+    
+
+Console.Write("LUTFEN ISMINIZI GIRINIZ :");
+isim= Console.ReadLine();
+
+Console.Write("YASINIZI GIRINIZ : ");
+ int yas = int.Parse(Console.ReadLine());
+
+
+Console.WriteLine("MERHABA {0} {1} YASINIZ ",isim,yas);
+// {0} ilk bilgi {1} ikinci girilen bilgi
+
+    if (yas>18){
+      Console.WriteLine("OY KULLANABİLİRSİNİZ");
+    }
+
+    if (yas<=18){
+      Console.WriteLine("YASINIZ TUTMUYOR OY KULLANMAK ICIN \n  ");
+   
+            for ( ; yas < 22; yas = yas +3){ //18 DEN SONRA OY KULLANABİLİRİZ EN ERKEN 18 3 EKLENDİĞİNDE 21
+                if ( yas > 18 ){
+                 Console.WriteLine("OY KULLANABİLCEĞİNİZ İLK YAS: " + yas); 
+            } }
+            
+            
+    }
+        
+Console.ReadKey();
+  }
+}
