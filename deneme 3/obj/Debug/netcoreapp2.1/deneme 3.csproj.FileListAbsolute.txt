@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\yazılım\deneme 3\bin\Debug\netcoreapp2.1\deneme 3.deps.json
+C:\Users\HP\Desktop\yazılım\deneme 3\bin\Debug\netcoreapp2.1\deneme 3.runtimeconfig.json
+C:\Users\HP\Desktop\yazılım\deneme 3\bin\Debug\netcoreapp2.1\deneme 3.runtimeconfig.dev.json
+C:\Users\HP\Desktop\yazılım\deneme 3\bin\Debug\netcoreapp2.1\deneme 3.dll
+C:\Users\HP\Desktop\yazılım\deneme 3\bin\Debug\netcoreapp2.1\deneme 3.pdb
+C:\Users\HP\Desktop\yazılım\deneme 3\obj\Debug\netcoreapp2.1\deneme 3.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\yazılım\deneme 3\obj\Debug\netcoreapp2.1\deneme 3.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\yazılım\deneme 3\obj\Debug\netcoreapp2.1\deneme 3.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\yazılım\deneme 3\obj\Debug\netcoreapp2.1\deneme 3.AssemblyInfo.cs
+C:\Users\HP\Desktop\yazılım\deneme 3\obj\Debug\netcoreapp2.1\deneme 3.dll
+C:\Users\HP\Desktop\yazılım\deneme 3\obj\Debug\netcoreapp2.1\deneme 3.pdb
