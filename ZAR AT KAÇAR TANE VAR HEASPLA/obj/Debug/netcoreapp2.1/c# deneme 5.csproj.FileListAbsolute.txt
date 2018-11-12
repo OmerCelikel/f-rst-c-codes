@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\yazılım\c# deneme 5\bin\Debug\netcoreapp2.1\c# deneme 5.deps.json
+C:\Users\HP\Desktop\yazılım\c# deneme 5\bin\Debug\netcoreapp2.1\c# deneme 5.runtimeconfig.json
+C:\Users\HP\Desktop\yazılım\c# deneme 5\bin\Debug\netcoreapp2.1\c# deneme 5.runtimeconfig.dev.json
+C:\Users\HP\Desktop\yazılım\c# deneme 5\bin\Debug\netcoreapp2.1\c# deneme 5.dll
+C:\Users\HP\Desktop\yazılım\c# deneme 5\bin\Debug\netcoreapp2.1\c# deneme 5.pdb
+C:\Users\HP\Desktop\yazılım\c# deneme 5\obj\Debug\netcoreapp2.1\c# deneme 5.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\yazılım\c# deneme 5\obj\Debug\netcoreapp2.1\c# deneme 5.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\yazılım\c# deneme 5\obj\Debug\netcoreapp2.1\c# deneme 5.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\yazılım\c# deneme 5\obj\Debug\netcoreapp2.1\c# deneme 5.AssemblyInfo.cs
+C:\Users\HP\Desktop\yazılım\c# deneme 5\obj\Debug\netcoreapp2.1\c# deneme 5.dll
+C:\Users\HP\Desktop\yazılım\c# deneme 5\obj\Debug\netcoreapp2.1\c# deneme 5.pdb
