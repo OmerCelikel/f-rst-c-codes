@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\yazılım\DNEME8\bin\Debug\netcoreapp2.1\DNEME8.deps.json
+C:\Users\HP\Desktop\yazılım\DNEME8\bin\Debug\netcoreapp2.1\DNEME8.runtimeconfig.json
+C:\Users\HP\Desktop\yazılım\DNEME8\bin\Debug\netcoreapp2.1\DNEME8.runtimeconfig.dev.json
+C:\Users\HP\Desktop\yazılım\DNEME8\bin\Debug\netcoreapp2.1\DNEME8.dll
+C:\Users\HP\Desktop\yazılım\DNEME8\bin\Debug\netcoreapp2.1\DNEME8.pdb
+C:\Users\HP\Desktop\yazılım\DNEME8\obj\Debug\netcoreapp2.1\DNEME8.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\yazılım\DNEME8\obj\Debug\netcoreapp2.1\DNEME8.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\yazılım\DNEME8\obj\Debug\netcoreapp2.1\DNEME8.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\yazılım\DNEME8\obj\Debug\netcoreapp2.1\DNEME8.AssemblyInfo.cs
+C:\Users\HP\Desktop\yazılım\DNEME8\obj\Debug\netcoreapp2.1\DNEME8.dll
+C:\Users\HP\Desktop\yazılım\DNEME8\obj\Debug\netcoreapp2.1\DNEME8.pdb
