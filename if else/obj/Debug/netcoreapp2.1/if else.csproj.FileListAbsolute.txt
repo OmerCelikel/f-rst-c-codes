@@ -1,0 +1,11 @@
+C:\Users\inci bilgisayar\source\repos\if else\if else\bin\Debug\netcoreapp2.1\if else.deps.json
+C:\Users\inci bilgisayar\source\repos\if else\if else\bin\Debug\netcoreapp2.1\if else.runtimeconfig.json
+C:\Users\inci bilgisayar\source\repos\if else\if else\bin\Debug\netcoreapp2.1\if else.runtimeconfig.dev.json
+C:\Users\inci bilgisayar\source\repos\if else\if else\bin\Debug\netcoreapp2.1\if else.dll
+C:\Users\inci bilgisayar\source\repos\if else\if else\bin\Debug\netcoreapp2.1\if else.pdb
+C:\Users\inci bilgisayar\source\repos\if else\if else\obj\Debug\netcoreapp2.1\if else.csprojAssemblyReference.cache
+C:\Users\inci bilgisayar\source\repos\if else\if else\obj\Debug\netcoreapp2.1\if else.csproj.CoreCompileInputs.cache
+C:\Users\inci bilgisayar\source\repos\if else\if else\obj\Debug\netcoreapp2.1\if else.AssemblyInfoInputs.cache
+C:\Users\inci bilgisayar\source\repos\if else\if else\obj\Debug\netcoreapp2.1\if else.AssemblyInfo.cs
+C:\Users\inci bilgisayar\source\repos\if else\if else\obj\Debug\netcoreapp2.1\if else.dll
+C:\Users\inci bilgisayar\source\repos\if else\if else\obj\Debug\netcoreapp2.1\if else.pdb
