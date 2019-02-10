@@ -1,0 +1,11 @@
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\FAKTORIYEL\FAKTORIYEL\obj\Debug\netcoreapp2.1\FAKTORIYEL.csprojAssemblyReference.cache
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\FAKTORIYEL\FAKTORIYEL\obj\Debug\netcoreapp2.1\FAKTORIYEL.csproj.CoreCompileInputs.cache
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\FAKTORIYEL\FAKTORIYEL\obj\Debug\netcoreapp2.1\FAKTORIYEL.AssemblyInfoInputs.cache
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\FAKTORIYEL\FAKTORIYEL\obj\Debug\netcoreapp2.1\FAKTORIYEL.AssemblyInfo.cs
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\FAKTORIYEL\FAKTORIYEL\bin\Debug\netcoreapp2.1\FAKTORIYEL.deps.json
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\FAKTORIYEL\FAKTORIYEL\bin\Debug\netcoreapp2.1\FAKTORIYEL.runtimeconfig.json
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\FAKTORIYEL\FAKTORIYEL\bin\Debug\netcoreapp2.1\FAKTORIYEL.runtimeconfig.dev.json
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\FAKTORIYEL\FAKTORIYEL\bin\Debug\netcoreapp2.1\FAKTORIYEL.dll
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\FAKTORIYEL\FAKTORIYEL\bin\Debug\netcoreapp2.1\FAKTORIYEL.pdb
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\FAKTORIYEL\FAKTORIYEL\obj\Debug\netcoreapp2.1\FAKTORIYEL.dll
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\FAKTORIYEL\FAKTORIYEL\obj\Debug\netcoreapp2.1\FAKTORIYEL.pdb
