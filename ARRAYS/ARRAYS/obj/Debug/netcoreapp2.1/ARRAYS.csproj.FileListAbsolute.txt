@@ -1,0 +1,11 @@
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\ARRAYS\ARRAYS\bin\Debug\netcoreapp2.1\ARRAYS.deps.json
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\ARRAYS\ARRAYS\bin\Debug\netcoreapp2.1\ARRAYS.runtimeconfig.json
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\ARRAYS\ARRAYS\bin\Debug\netcoreapp2.1\ARRAYS.runtimeconfig.dev.json
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\ARRAYS\ARRAYS\bin\Debug\netcoreapp2.1\ARRAYS.dll
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\ARRAYS\ARRAYS\bin\Debug\netcoreapp2.1\ARRAYS.pdb
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\ARRAYS\ARRAYS\obj\Debug\netcoreapp2.1\ARRAYS.csprojAssemblyReference.cache
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\ARRAYS\ARRAYS\obj\Debug\netcoreapp2.1\ARRAYS.csproj.CoreCompileInputs.cache
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\ARRAYS\ARRAYS\obj\Debug\netcoreapp2.1\ARRAYS.AssemblyInfoInputs.cache
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\ARRAYS\ARRAYS\obj\Debug\netcoreapp2.1\ARRAYS.AssemblyInfo.cs
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\ARRAYS\ARRAYS\obj\Debug\netcoreapp2.1\ARRAYS.dll
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\ARRAYS\ARRAYS\obj\Debug\netcoreapp2.1\ARRAYS.pdb
