@@ -1,0 +1,11 @@
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\metotlar\metotlar\bin\Debug\netcoreapp2.1\metotlar.deps.json
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\metotlar\metotlar\bin\Debug\netcoreapp2.1\metotlar.runtimeconfig.json
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\metotlar\metotlar\bin\Debug\netcoreapp2.1\metotlar.runtimeconfig.dev.json
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\metotlar\metotlar\bin\Debug\netcoreapp2.1\metotlar.dll
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\metotlar\metotlar\bin\Debug\netcoreapp2.1\metotlar.pdb
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\metotlar\metotlar\obj\Debug\netcoreapp2.1\metotlar.csprojAssemblyReference.cache
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\metotlar\metotlar\obj\Debug\netcoreapp2.1\metotlar.csproj.CoreCompileInputs.cache
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\metotlar\metotlar\obj\Debug\netcoreapp2.1\metotlar.AssemblyInfoInputs.cache
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\metotlar\metotlar\obj\Debug\netcoreapp2.1\metotlar.AssemblyInfo.cs
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\metotlar\metotlar\obj\Debug\netcoreapp2.1\metotlar.dll
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\metotlar\metotlar\obj\Debug\netcoreapp2.1\metotlar.pdb
