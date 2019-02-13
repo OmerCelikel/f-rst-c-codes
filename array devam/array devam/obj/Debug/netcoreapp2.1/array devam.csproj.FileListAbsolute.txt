@@ -1,0 +1,11 @@
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\array devam\array devam\bin\Debug\netcoreapp2.1\array devam.deps.json
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\array devam\array devam\bin\Debug\netcoreapp2.1\array devam.runtimeconfig.json
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\array devam\array devam\bin\Debug\netcoreapp2.1\array devam.runtimeconfig.dev.json
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\array devam\array devam\bin\Debug\netcoreapp2.1\array devam.dll
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\array devam\array devam\bin\Debug\netcoreapp2.1\array devam.pdb
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\array devam\array devam\obj\Debug\netcoreapp2.1\array devam.csprojAssemblyReference.cache
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\array devam\array devam\obj\Debug\netcoreapp2.1\array devam.csproj.CoreCompileInputs.cache
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\array devam\array devam\obj\Debug\netcoreapp2.1\array devam.AssemblyInfoInputs.cache
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\array devam\array devam\obj\Debug\netcoreapp2.1\array devam.AssemblyInfo.cs
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\array devam\array devam\obj\Debug\netcoreapp2.1\array devam.dll
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\array devam\array devam\obj\Debug\netcoreapp2.1\array devam.pdb
