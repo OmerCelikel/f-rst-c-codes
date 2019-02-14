@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "çok boyutlu diziler", "çok boyutlu diziler\çok boyutlu diziler.csproj", "{137DB46F-8EA8-47B5-9A92-1BC8C298AD51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{137DB46F-8EA8-47B5-9A92-1BC8C298AD51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{137DB46F-8EA8-47B5-9A92-1BC8C298AD51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{137DB46F-8EA8-47B5-9A92-1BC8C298AD51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{137DB46F-8EA8-47B5-9A92-1BC8C298AD51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {206D03FC-C071-437C-A867-EB7BBA387C3D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\çok boyutlu diziler\çok boyutlu diziler\bin\Debug\netcoreapp2.1\çok boyutlu diziler.deps.json
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\çok boyutlu diziler\çok boyutlu diziler\bin\Debug\netcoreapp2.1\çok boyutlu diziler.runtimeconfig.json
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\çok boyutlu diziler\çok boyutlu diziler\bin\Debug\netcoreapp2.1\çok boyutlu diziler.runtimeconfig.dev.json
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\çok boyutlu diziler\çok boyutlu diziler\bin\Debug\netcoreapp2.1\çok boyutlu diziler.dll
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\çok boyutlu diziler\çok boyutlu diziler\bin\Debug\netcoreapp2.1\çok boyutlu diziler.pdb
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\çok boyutlu diziler\çok boyutlu diziler\obj\Debug\netcoreapp2.1\çok boyutlu diziler.csprojAssemblyReference.cache
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\çok boyutlu diziler\çok boyutlu diziler\obj\Debug\netcoreapp2.1\çok boyutlu diziler.csproj.CoreCompileInputs.cache
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\çok boyutlu diziler\çok boyutlu diziler\obj\Debug\netcoreapp2.1\çok boyutlu diziler.AssemblyInfoInputs.cache
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\çok boyutlu diziler\çok boyutlu diziler\obj\Debug\netcoreapp2.1\çok boyutlu diziler.AssemblyInfo.cs
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\çok boyutlu diziler\çok boyutlu diziler\obj\Debug\netcoreapp2.1\çok boyutlu diziler.dll
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\çok boyutlu diziler\çok boyutlu diziler\obj\Debug\netcoreapp2.1\çok boyutlu diziler.pdb
