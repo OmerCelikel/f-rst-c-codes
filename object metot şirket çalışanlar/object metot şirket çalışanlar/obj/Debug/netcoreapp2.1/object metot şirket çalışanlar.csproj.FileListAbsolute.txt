@@ -1,0 +1,11 @@
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\object metot şirket çalışanlar\object metot şirket çalışanlar\bin\Debug\netcoreapp2.1\object metot şirket çalışanlar.deps.json
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\object metot şirket çalışanlar\object metot şirket çalışanlar\bin\Debug\netcoreapp2.1\object metot şirket çalışanlar.runtimeconfig.json
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\object metot şirket çalışanlar\object metot şirket çalışanlar\bin\Debug\netcoreapp2.1\object metot şirket çalışanlar.runtimeconfig.dev.json
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\object metot şirket çalışanlar\object metot şirket çalışanlar\bin\Debug\netcoreapp2.1\object metot şirket çalışanlar.dll
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\object metot şirket çalışanlar\object metot şirket çalışanlar\bin\Debug\netcoreapp2.1\object metot şirket çalışanlar.pdb
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\object metot şirket çalışanlar\object metot şirket çalışanlar\obj\Debug\netcoreapp2.1\object metot şirket çalışanlar.csprojAssemblyReference.cache
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\object metot şirket çalışanlar\object metot şirket çalışanlar\obj\Debug\netcoreapp2.1\object metot şirket çalışanlar.csproj.CoreCompileInputs.cache
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\object metot şirket çalışanlar\object metot şirket çalışanlar\obj\Debug\netcoreapp2.1\object metot şirket çalışanlar.AssemblyInfoInputs.cache
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\object metot şirket çalışanlar\object metot şirket çalışanlar\obj\Debug\netcoreapp2.1\object metot şirket çalışanlar.AssemblyInfo.cs
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\object metot şirket çalışanlar\object metot şirket çalışanlar\obj\Debug\netcoreapp2.1\object metot şirket çalışanlar.dll
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\object metot şirket çalışanlar\object metot şirket çalışanlar\obj\Debug\netcoreapp2.1\object metot şirket çalışanlar.pdb
