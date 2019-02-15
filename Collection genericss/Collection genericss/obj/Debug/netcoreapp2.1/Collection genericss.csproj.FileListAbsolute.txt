@@ -1,0 +1,11 @@
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\Collection genericss\Collection genericss\bin\Debug\netcoreapp2.1\Collection genericss.deps.json
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\Collection genericss\Collection genericss\bin\Debug\netcoreapp2.1\Collection genericss.runtimeconfig.json
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\Collection genericss\Collection genericss\bin\Debug\netcoreapp2.1\Collection genericss.runtimeconfig.dev.json
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\Collection genericss\Collection genericss\bin\Debug\netcoreapp2.1\Collection genericss.dll
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\Collection genericss\Collection genericss\bin\Debug\netcoreapp2.1\Collection genericss.pdb
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\Collection genericss\Collection genericss\obj\Debug\netcoreapp2.1\Collection genericss.csprojAssemblyReference.cache
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\Collection genericss\Collection genericss\obj\Debug\netcoreapp2.1\Collection genericss.csproj.CoreCompileInputs.cache
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\Collection genericss\Collection genericss\obj\Debug\netcoreapp2.1\Collection genericss.AssemblyInfoInputs.cache
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\Collection genericss\Collection genericss\obj\Debug\netcoreapp2.1\Collection genericss.AssemblyInfo.cs
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\Collection genericss\Collection genericss\obj\Debug\netcoreapp2.1\Collection genericss.dll
+C:\Users\inci bilgisayar\Desktop\ÖMER\C#\Collection genericss\Collection genericss\obj\Debug\netcoreapp2.1\Collection genericss.pdb
